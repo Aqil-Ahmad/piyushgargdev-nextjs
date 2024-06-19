@@ -52,7 +52,7 @@ const Hero = () => {
           </Col>
           <Col lg="6" md="6">
             <div className={`${classes.hero__img} text-end`}>
-              <Image alt="Piyush Garg" src={heroImg} width="450" height="450" />
+              <Image alt="Piyushhh Garg" src={heroImg} width="450" height="450" />
             </div>
           </Col>
         </Row>
